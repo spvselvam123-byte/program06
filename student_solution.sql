@@ -1,4 +1,3 @@
-
 UPDATE student
 SET DEPARTMENTID=103
 WHERE StudentName='Karthik';
